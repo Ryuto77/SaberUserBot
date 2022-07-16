@@ -25,7 +25,7 @@ Enjoy Your Bot!!💝
 <a href="https://t.me/Yeageristbots"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/SaberUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ryuto77/SaberUserBot)
 
 ## Devs & Contributors
 
